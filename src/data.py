@@ -16,3 +16,6 @@ def data_loader(path):
         return df
     except Exception as e:
         print(f"An error occured:\n{e}")    
+
+
+
